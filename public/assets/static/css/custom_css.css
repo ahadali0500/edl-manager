@@ -1,0 +1,131 @@
+.clean-block.clean-form form {
+  border-top: 2px solid #5ea4f3;
+  background-color: #fff;
+  max-width: 800px;
+  margin: auto;
+  padding: 40px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.075);
+}
+
+.form-group {
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.add-object {
+  text-align: left;
+  padding: 0;
+  margin: 10px;
+}
+
+.announcement {
+  margin-bottom: 0;
+}
+
+.source-type {
+  text-align: center;
+  background-color: white;
+  padding: 15px;
+}
+
+.clean-block .block-heading {
+  padding-top: 30px;
+}
+
+.template-clone-button {
+  vertical-align: bottom;
+}
+
+.clean-block .block-heading p {
+  /*max-width: 100%;*/
+  /*text-align: left;*/
+}
+
+.faq-item {
+  text-align: left;
+  margin: 15px;
+  /*max-width: 100%;*/
+}
+
+.faq-item p {
+  text-align: left;
+  max-width: 100%;
+}
+
+.clean-block .block-content {
+  margin-top: 15px;
+}
+
+#div_id_add_sources div {
+  text-indent: 20px;
+}
+
+#div_id_subtract_sources div {
+  text-indent: 20px;
+}
+
+#adv_edl_settings div h4 a {
+  color: inherit;
+}
+
+#perm_tags div h6 a {
+  color: inherit;
+}
+
+#adv_edl_settings div a[aria-expanded="false"]:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f107";
+}
+
+#perm_tags div a[aria-expanded="false"]:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f107";
+}
+
+#adv_edl_settings div a[aria-expanded="true"]:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f106";
+}
+
+#perm_tags div a[aria-expanded="true"]:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f106";
+}
+
+#adv_edl_settings .card {
+  border: none;
+  background-color: rgba(0,0,0,.03);
+}
+
+#perm_tags .card {
+  border: none;
+  background-color: rgba(0,0,0,.03);
+}
+
+#adv_edl_settings .card-header {
+  background-color: white;
+  /*width: fit-content;*/
+  border: none;
+  padding-left: 0rem;
+}
+
+#perm_tags .card-header {
+  background-color: white;
+  /*width: fit-content;*/
+  border: none;
+  padding-left: 0rem;
+}
+
+.bulk-edit-buttons {
+  margin: 5px;
+}
+
+.snapshot-edge {
+  background-color: #f5f3f3;
+  padding: 10px;
+}
+
